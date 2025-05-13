@@ -1,0 +1,14 @@
+C:\Users\Mostafa\Desktop\prjs\C# prjs\3-problem solving\String-Transform-Length\bin\Debug\net9.0\String-Transform-Length.exe
+C:\Users\Mostafa\Desktop\prjs\C# prjs\3-problem solving\String-Transform-Length\bin\Debug\net9.0\String-Transform-Length.deps.json
+C:\Users\Mostafa\Desktop\prjs\C# prjs\3-problem solving\String-Transform-Length\bin\Debug\net9.0\String-Transform-Length.runtimeconfig.json
+C:\Users\Mostafa\Desktop\prjs\C# prjs\3-problem solving\String-Transform-Length\bin\Debug\net9.0\String-Transform-Length.dll
+C:\Users\Mostafa\Desktop\prjs\C# prjs\3-problem solving\String-Transform-Length\bin\Debug\net9.0\String-Transform-Length.pdb
+C:\Users\Mostafa\Desktop\prjs\C# prjs\3-problem solving\String-Transform-Length\obj\Debug\net9.0\String-Transform-Length.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa\Desktop\prjs\C# prjs\3-problem solving\String-Transform-Length\obj\Debug\net9.0\String-Transform-Length.AssemblyInfoInputs.cache
+C:\Users\Mostafa\Desktop\prjs\C# prjs\3-problem solving\String-Transform-Length\obj\Debug\net9.0\String-Transform-Length.AssemblyInfo.cs
+C:\Users\Mostafa\Desktop\prjs\C# prjs\3-problem solving\String-Transform-Length\obj\Debug\net9.0\String-Transform-Length.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa\Desktop\prjs\C# prjs\3-problem solving\String-Transform-Length\obj\Debug\net9.0\String-Transform-Length.dll
+C:\Users\Mostafa\Desktop\prjs\C# prjs\3-problem solving\String-Transform-Length\obj\Debug\net9.0\refint\String-Transform-Length.dll
+C:\Users\Mostafa\Desktop\prjs\C# prjs\3-problem solving\String-Transform-Length\obj\Debug\net9.0\String-Transform-Length.pdb
+C:\Users\Mostafa\Desktop\prjs\C# prjs\3-problem solving\String-Transform-Length\obj\Debug\net9.0\String-Transform-Length.genruntimeconfig.cache
+C:\Users\Mostafa\Desktop\prjs\C# prjs\3-problem solving\String-Transform-Length\obj\Debug\net9.0\ref\String-Transform-Length.dll
